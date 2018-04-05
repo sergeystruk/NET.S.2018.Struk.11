@@ -43,6 +43,7 @@
     <Compile Include="Book.cs" />
     <Compile Include="BookListService.cs" />
     <Compile Include="CustomOutputFormat.cs" />
+    <Compile Include="IFinder.cs" />
     <Compile Include="IRepository.cs" />
     <Compile Include="ISBN.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
